@@ -1,2 +1,2 @@
 # tp_laboratorio_2
-Trabajos prácticos Laboratorio I
+Trabajos prácticos Laboratorio II
